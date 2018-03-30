@@ -1,0 +1,9 @@
+/vendor/
+.idea
+Будет удалено .idea/application-notifyview.iml
+Будет удалено .idea/inspectionProfiles/
+Будет удалено .idea/modules.xml
+Будет удалено .idea/workspace.xml
+Будет удалено config/autoload/rollun.logger.zend.global.php
+Будет удалено public/assets/
+Будет удалено test/
